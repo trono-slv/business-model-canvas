@@ -2,7 +2,7 @@
 
 Quiz didattico interattivo sul Business Model Canvas e l'approccio Lean Startup, ideato da Dott. Salvatore Trono.
 
-**[Apri il quiz →](#)**
+https://trono-slv.github.io/business-model-canvas/
 
 ---
 
